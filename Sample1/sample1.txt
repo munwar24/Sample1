@@ -1,0 +1,5 @@
+hello Sample1 file
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/munwar24/Sample1.git
+git push -u origin master
